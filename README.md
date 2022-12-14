@@ -1,4 +1,7 @@
+<<<<<<< Updated upstream
 # Ginrobot
+=======
+>>>>>>> Stashed changes
 ##                                   **基于java的简易聊天机器人**
 
 
@@ -10,4 +13,8 @@
 > mvn package # 打包
 > 浏览器搜索 localhost/index.html
 > ```
+<<<<<<< Updated upstream
 >
+=======
+>
+>>>>>>> Stashed changes
