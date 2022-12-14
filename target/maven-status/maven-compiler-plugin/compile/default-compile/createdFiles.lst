@@ -1,8 +1,0 @@
-com\panther\diyrabbit\Application.class
-com\panther\diyrabbit\entity\Response.class
-com\panther\diyrabbit\service\RobotService.class
-com\panther\diyrabbit\util\HttpUtil.class
-com\panther\diyrabbit\service\impl\RobotServiceImpl.class
-com\panther\diyrabbit\app\charsetConfig.class
-com\panther\diyrabbit\controller\robotController.class
-com\panther\diyrabbit\entity\Request.class
